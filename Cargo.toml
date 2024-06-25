@@ -94,7 +94,7 @@ description = """
 A logging implementation for `log` which is configured via an environment
 variable.
 """
-repository = "https://github.com/rust-cli/env_logger"
+repository = "https://github.com/ka-de/env_logger"
 categories = ["development-tools::debugging"]
 keywords = ["logging", "log", "logger"]
 license.workspace = true
